@@ -3,10 +3,10 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: chocolate;
+  background-color: #2c2720;
   font-family: "Poppins", sans-serif;
 }
 
 h1 {
-  color: wheat;
+  color: #fff;
 }
