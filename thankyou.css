@@ -1,0 +1,11 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: chocolate;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  color: wheat;
+}
